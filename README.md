@@ -64,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhijit-2003/leetcode/tree/master/0009-palindrome-number) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+## String
+|  |
+| ------- |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 <!---LeetCode Topics End-->
