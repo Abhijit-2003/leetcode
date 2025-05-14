@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -78,4 +79,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhijit-2003/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
