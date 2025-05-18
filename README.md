@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/0020-valid-parentheses) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Linked List
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
