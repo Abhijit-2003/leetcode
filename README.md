@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Abhijit-2003/leetcode/tree/master/0058-length-of-last-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Linked List
 |  |
