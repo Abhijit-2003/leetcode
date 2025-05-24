@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhijit-2003/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhijit-2003/leetcode/tree/master/0013-roman-to-integer) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
