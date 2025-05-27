@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhijit-2003/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Abhijit-2003/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Abhijit-2003/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Abhijit-2003/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Abhijit-2003/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Abhijit-2003/leetcode/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhijit-2003/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhijit-2003/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhijit-2003/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Abhijit-2003/leetcode/tree/master/0066-plus-one) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
