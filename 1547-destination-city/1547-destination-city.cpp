@@ -1,8 +1,8 @@
 class Solution {
 public:
     string destCity(vector<vector<string>>& paths) {
-        map<string,int>map1;
-        map<string,int>map2;
+        unordered_map<string,int>map1;
+        unordered_map<string,int>map2;
 
         for(int i=0; i<paths.size(); i++) {
 
