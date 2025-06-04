@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhijit-2003/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhijit-2003/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhijit-2003/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Abhijit-2003/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhijit-2003/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Abhijit-2003/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Abhijit-2003/leetcode/tree/master/0066-plus-one) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhijit-2003/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhijit-2003/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhijit-2003/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
 |  |
