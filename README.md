@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhijit-2003/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
 ## Divide and Conquer
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhijit-2003/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijit-2003/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhijit-2003/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
