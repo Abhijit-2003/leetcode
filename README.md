@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijit-2003/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhijit-2003/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abhijit-2003/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhijit-2003/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Abhijit-2003/leetcode/tree/master/0937-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
