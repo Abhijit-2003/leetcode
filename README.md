@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhijit-2003/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijit-2003/leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Abhijit-2003/leetcode/tree/master/0326-power-of-three) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijit-2003/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhijit-2003/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Abhijit-2003/leetcode/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
