@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhijit-2003/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijit-2003/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Abhijit-2003/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhijit-2003/leetcode/tree/master/0326-power-of-three) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhijit-2003/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhijit-2003/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Abhijit-2003/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhijit-2003/leetcode/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Abhijit-2003/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhijit-2003/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhijit-2003/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
