@@ -17,11 +17,11 @@
 // }
 
 class Solution {
-    static{
-        for(int i = 0; i < 500; i++){
-            findMaxConsecutiveOnes(new int[]{});
-        }
-    }
+    // static{
+    //     for(int i = 0; i < 500; i++){
+    //         findMaxConsecutiveOnes(new int[]{});
+    //     }
+    // }
     public static int findMaxConsecutiveOnes(int[] nums) {
         int max = 0, count = 0;
         for(int num : nums){
