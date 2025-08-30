@@ -1,31 +1,18 @@
 class Solution {
     public boolean check(int[] nums) {
-        int rotablePoints = 0;
-        int lastIndex = nums.length - 1;
-        for (int i = 0; i < lastIndex; i++) {
-            if (nums[i] > nums[i + 1]) {
-                rotablePoints++;
+        int count = 0;
+        int n = nums.length;
+
+        for(int i=1; i<n; i++) {
+            if(nums[i-1] > nums[i]) {
+                count ++;
             }
         }
-        if (nums[0] < nums[lastIndex])
-            rotablePoints++;
 
-        if (rotablePoints <= 1)
-            return true;
+        if(nums[n-1] > nums[0]) {
+            count++;
+        }
 
-        return false;  
-
-        // boolean dropFound = false;
-        // int i = 1;
-
-        // while(i < nums.length)
-        // {
-        //     if(dropFound && nums[i] < nums[i - 1]) return false;
-        //     if(!dropFound && nums[i] < nums[i - 1]) dropFound = true;
-        //     if(dropFound && nums[i] > nums[0]) return false;
-        //     i++;
-        // }
-
-        // return true;
+        return count <= 1;
     }
 }
