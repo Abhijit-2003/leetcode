@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijit-2003/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhijit-2003/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhijit-2003/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhijit-2003/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhijit-2003/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhijit-2003/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhijit-2003/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhijit-2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhijit-2003/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhijit-2003/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhijit-2003/leetcode/tree/master/0326-power-of-three) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abhijit-2003/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -237,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhijit-2003/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhijit-2003/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abhijit-2003/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
