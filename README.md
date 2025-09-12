@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhijit-2003/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhijit-2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Abhijit-2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijit-2003/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhijit-2003/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhijit-2003/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
