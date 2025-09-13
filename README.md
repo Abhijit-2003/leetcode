@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0812-rotate-string) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhijit-2003/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Linked List
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Abhijit-2003/leetcode/tree/master/0937-online-stock-span) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
