@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-2003/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijit-2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhijit-2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhijit-2003/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhijit-2003/leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0812-rotate-string) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijit-2003/leetcode/tree/master/0011-container-with-most-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
