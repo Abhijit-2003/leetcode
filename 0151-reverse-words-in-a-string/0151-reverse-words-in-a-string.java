@@ -33,22 +33,50 @@ class Solution {
         // return ans.toString();
 
 
+        // StringBuilder sb = new StringBuilder();
+        // int j = s.length();
+
+        // for(int i = s.length()-2; i >= -1; i--) {
+
+        //     if(i != -1 && s.charAt(i) != ' ') {
+        //         continue;
+        //     }
+
+        //     String substr = s.substring(i+1, j);
+
+        //     if(!substr.isBlank()) {
+        //         sb.append(substr).append(' ');
+        //     }
+
+        //    j = i;
+        // }
+
+        // return sb.toString().trim();
+
+        s.trim();
+
+        List<String> list = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
-        int j = s.length();
 
-        for(int i = s.length()-2; i >= -1; i--) {
-
-            if(i != -1 && s.charAt(i) != ' ') {
-                continue;
+        for(char ch : s.toCharArray()) {
+            if(ch != ' ') {
+                sb.append(ch);
+            } else {
+                if(sb.length() != 0) {
+                    list.add(sb.toString());
+                }
+                sb.setLength(0);
             }
+        }
 
-            String substr = s.substring(i+1, j);
+        list.add(sb.toString());
 
-            if(!substr.isBlank()) {
-                sb.append(substr).append(' ');
-            }
+        Collections.reverse(list);
 
-           j = i;
+        sb.setLength(0);
+
+        for(String str : list) {
+            sb.append(str + " ");
         }
 
         return sb.toString().trim();
