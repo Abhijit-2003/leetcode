@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijit-2003/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijit-2003/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Abhijit-2003/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhijit-2003/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijit-2003/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhijit-2003/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhijit-2003/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhijit-2003/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijit-2003/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhijit-2003/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhijit-2003/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijit-2003/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijit-2003/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Abhijit-2003/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhijit-2003/leetcode/tree/master/0496-next-greater-element-i) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhijit-2003/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhijit-2003/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Abhijit-2003/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijit-2003/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhijit-2003/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
