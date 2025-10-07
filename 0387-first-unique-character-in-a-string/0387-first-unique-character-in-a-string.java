@@ -20,14 +20,29 @@ class Solution {
         // return -1;
 
 
-        int freq[] = new int[26];
+        // int freq[] = new int[26];
 
+        // for(char ch : s.toCharArray()) {
+        //     freq[ch - 'a']++;
+        // }
+
+        // for(char ch : s.toCharArray()) {
+        //     if(freq[ch - 'a'] == 1) return s.indexOf(ch);
+        // }
+
+        // return -1;
+
+        Map<Character, Integer> map = new HashMap<>();
         for(char ch : s.toCharArray()) {
-            freq[ch - 'a']++;
+            if(map.containsKey(ch)) {
+                map.put(ch, map.get(ch) + 1);
+            } else {
+                map.put(ch, 1);
+            }
         }
 
-        for(char ch : s.toCharArray()) {
-            if(freq[ch - 'a'] == 1) return s.indexOf(ch);
+        for(int i = 0; i < s.length(); i++) {
+            if(map.get(s.charAt(i)) == 1) return i;
         }
 
         return -1;
