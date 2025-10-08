@@ -3,23 +3,20 @@ class Solution {
         if (s.isEmpty()) {
         	return true;
         }
-        int start = 0;
-        int last = s.length() - 1;
-        while(start <= last) {
-        	char currFirst = s.charAt(start);
-        	char currLast = s.charAt(last);
-        	if (!Character.isLetterOrDigit(currFirst )) {
-        		start++;
-        	} else if(!Character.isLetterOrDigit(currLast)) {
-        		last--;
-        	} else {
-        		if (Character.toLowerCase(currFirst) != Character.toLowerCase(currLast)) {
-        			return false;
-        		}
-        		start++;
-        		last--;
-        	}
+
+        String s2 = s.toLowerCase();
+        String s3 = s2.replaceAll("[^a-zA-Z0-9]", "");
+
+        System.out.println(s3);
+
+        char arr[] = s3.toCharArray();
+
+        int j = arr.length - 1;
+        for(int i = 0; i < arr.length / 2; i++) {
+            if(arr[i] != arr[j]) return false;
+            j--;
         }
+
         return true;
     }
 }
