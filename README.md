@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhijit-2003/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijit-2003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Abhijit-2003/leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0812-rotate-string) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhijit-2003/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Abhijit-2003/leetcode/tree/master/0812-rotate-string) |
 ## Doubly-Linked List
 |  |
