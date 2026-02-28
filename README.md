@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Abhijit-2003/leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhijit-2003/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1547-destination-city](https://github.com/Abhijit-2003/leetcode/tree/master/1547-destination-city) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhijit-2003/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhijit-2003/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
