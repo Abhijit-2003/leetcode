@@ -14,14 +14,15 @@ class Solution:
         # Optimal Solution 
 
         n = len(nums)
-        d = {}
+        freq_map = {}
 
         for i in range(n) :
-            need = target - nums[i]
+            x = target - nums[i]
 
-            if need in d :
-                return list([d.get(need), i])
+            if x in freq_map :
+                return list([freq_map[x], i])
             else :
-                d[nums[i]] = i
+                freq_map[nums[i]] = i
+
 
         return list()
